@@ -14,13 +14,13 @@
     yarn install
 `` 
 ### Step3
-``
-polymer serve
-
 `` 
+    polymer serve
+``  
 
 ### Step4
-``
-json-server --watch db.json
 
 `` 
+    json-server --watch db.json
+`` 
+
